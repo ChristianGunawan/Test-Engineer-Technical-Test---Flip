@@ -29,3 +29,6 @@ API automation testing using Karate for:
 3. If you were the only QA in your team, how would you collaborate with devs and PM so that the lack of manpower does not affect the outcome?
 
 - As the only QA, I would ensure clear communication with devs and PMs via regular meetings and updates. I'd prioritize tasks, maintain thorough documentation, and implement Selenium for UI automation to maximize efficiency. Collaborative tools like Jira would streamline our workflow.
+
+ ## Chapter 2: Think testing
+ I'm using qase.io here https://app.qase.io/project/FTE
